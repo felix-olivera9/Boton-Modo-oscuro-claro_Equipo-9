@@ -7,8 +7,8 @@ Un botón personalizado que alterna entre modo claro y oscuro en una interfaz Sw
 Componente `JButton` personalizado que permite cambiar dinámicamente entre temas claro/oscuro en aplicaciones Java Swing.
 
 ## 🎨 Vista previa
-![Modo Claro](./screenshots/Captura_de_pantalla_2025-05-04_204353.png)  
-![Modo Oscuro](Captura%20de%20pantalla%202025-05-04%20204408.png)
+![Image](https://github.com/user-attachments/assets/76af399c-aaad-4fee-8dec-bb09da32b7ef) 
+![Image](https://github.com/user-attachments/assets/2a93f587-2822-4d5b-99dc-ccd5b84c0215)
 
 ## ⚙️ Métodos
 ```java
