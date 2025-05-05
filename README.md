@@ -51,3 +51,7 @@ Arrástralo al formulario
 
 ## Video explicativo
 https://youtu.be/0a2DwSOHcNk
+## Creditos del Equipo
+Chávez López Jeshua
+
+Olivera Jimenez Felix Eliel
