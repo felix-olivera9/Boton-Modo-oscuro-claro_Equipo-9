@@ -48,3 +48,6 @@ Busca el botón en tu categoría de componentes
 Arrástralo al formulario
 
 ¡Listo! Funcionará automáticamente al hacer clic
+
+## Video explicativo
+https://youtu.be/0a2DwSOHcNk
